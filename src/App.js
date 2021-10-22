@@ -1,12 +1,11 @@
-import Login from "./Login";
-import Signup from "./Signup";
+import Main from "./main";
 import './App.css'
 
 function App() {
   return (
     <div className="AppComp">
       <center>
-      <Login/>
+      <Main/>
       </center>
     </div>
   );

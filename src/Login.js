@@ -1,4 +1,4 @@
-import React,{Component} from 'react'
+import React from 'react'
 import Signup from './Signup';
 import ReactRoundedImage from 'react-rounded-image';
 import './Login.css'
